@@ -1,9 +1,10 @@
 # possible-curriculum
-<head><title>Currículo</title>
+<head>
+	<title>Currículo</title>
 </head>
 
 <body align = "center"> 
-<h1>ARTHUR PIRES FERREIRA DOS SANTOS<br></h1>h1
+<h1>ARTHUR PIRES FERREIRA DOS SANTOS<br></h1>
 <h4>Idade: 16 anos | Localidade Atual: Plano Piloto, Brasília - DF (Disponibilidade para o Gama - DF)</h4><br>
 <h4>Telefone: (61) 99173-1983 | E-mail: arthurpg10s@gmail.com<br></h4>
 <h4>LinkedIn: https://www.linkedin.com/in/arthur-pires-4436b0259/<br></h4>
