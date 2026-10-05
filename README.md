@@ -2,7 +2,7 @@
 <head>
 
 </head>
-<body align = "center"> 
+<body> <center>
 <h1>ARTHUR PIRES FERREIRA DOS SANTOS<br></h1>
 <h4>Idade: 16 anos | Localidade Atual: Plano Piloto, Brasília - DF (Disponibilidade para o Gama - DF)<br></h4>
 <h4>Telefone: (61) 99173-1983 | E-mail: arthurpg10s@gmail.com<br></h4>
@@ -25,4 +25,4 @@
 <p>• Boa comunicação interpessoal e facilidade para trabalhar em equipe.<br>
 • Perfil analítico, organizado e focado em soluções práticas.<br>
 • Rápida curva de aprendizado para sistemas de dados corporativos.</p><br>
-</body></html>
+</body></html></center>
