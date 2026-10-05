@@ -1,5 +1,7 @@
 # possible-curriculum
 Showcase curriculum for professional purposes. Please follow to the README.txt 
+
+<body> <h1>
 ##ARTHUR PIRES FERREIRA DOS SANTOS
 #Idade: 16 anos | Localidade Atual: Plano Piloto, Brasília - DF (Disponibilidade para o Gama - DF)
 #Telefone: (61) 99173-1983 | E-mail: arthurpg10s@gmail.com
