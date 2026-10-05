@@ -12,7 +12,7 @@
 <h2>📚 ESCOLARIDADE<br></h2>
 <p>• Ensino Médio (Regular) – CEM Paulo Freire<br>
 	• Conclusão prevista para Dezembro de 2026.<br>
-	• Disponibilidade de horário: Período da tarde (14:00 / contraturno da futura faculdade matutina).<br></p><hr>
+	• Disponibilidade de horário: Período da tarde (14:00 / contraturno da UnB no período matutino).<br></p><hr>
 <h1>💡 DIFERENCIAIS E COMPETÊNCIAS</h1><br>
 <p>• Raciocínio Lógico e Quantitativo: Alta facilidade com cálculos matemáticos, estatística básica e análise de dados.<br>
 • Idiomas: Inglês Avançado/Fluente (Nível C1 – excelente compreensão, escrita e conversação).<br>
