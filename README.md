@@ -1,6 +1,6 @@
 # possible-curriculum
 <head>
-	<title>Currículo</title>
+
 </head>
 
 <body align = "center"> 
