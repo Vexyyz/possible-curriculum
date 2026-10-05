@@ -7,7 +7,7 @@
 <h4>Idade: 16 anos | Localidade Atual: Plano Piloto, Brasília - DF (Disponibilidade para o Gama - DF)<br></h4>
 <h4>Telefone: (61) 99173-1983 | E-mail: arthurpg10s@gmail.com<br></h4>
 <h4>LinkedIn: https://www.linkedin.com/in/arthur-pires-4436b0259/<br></h4><hr>
-<h1>🎯 OBJETIVO</h1><br>
+<h1>🎯 OBJETIVO</h1>
 <h4>Atuar como Jovem Aprendiz Bancário ou na área Administrativa/Financeira, com total disponibilidade para trabalhar no período da tarde</h4>.<br>
 <h2>📚 ESCOLARIDADE<br></h2>
 <p>• Ensino Médio (Regular) – CEM Paulo Freire<br>
